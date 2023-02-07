@@ -59,4 +59,7 @@ spot.
 ● f.py consists of the calculating functions
 ● g.py consists of the functions responsible for drawing the graphs
 ● Main File.py is where everything comes together. This is the file to run.
+
+
+PDF file containing the diagrams of the program output:
 [MA1008 Mini Project Report.pdf](https://github.com/jensonjenkins/ma1008-miniproject/files/10677989/MA1008.Mini.Project.Report.pdf)
