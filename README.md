@@ -1,6 +1,6 @@
-#beam-visualizer
+# beam-visualizer
 
-##Demo
+## Demo
 ![image](https://github.com/jensonjenkins/beam-visualizer/assets/117452546/caca2cb8-090e-426d-b2c9-1093dea5e4cb)
 
 ## How to run the program
