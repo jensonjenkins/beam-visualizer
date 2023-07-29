@@ -1,5 +1,7 @@
 # ma1008-miniproject
 
+![image](https://github.com/jensonjenkins/beam-visualizer/assets/117452546/caca2cb8-090e-426d-b2c9-1093dea5e4cb)
+
 1. How to run the program
 Upon running the program, the user will be prompted to input 1 or 2 (just the number) to
 indicate whether the input data is manually keyed in or loaded from a previously saved
